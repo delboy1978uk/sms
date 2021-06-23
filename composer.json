@@ -1,10 +1,10 @@
 {
-    "name": "delboy1978uk/blank",
-    "description": "A blank project",
+    "name": "delboy1978uk/sms",
+    "description": "SMS functionalityfor PHP",
     "license": "MIT",
     "authors": [
         {
-            "name": "Derek McLean",
+            "name": "Derek Stephen McLean",
             "email": "delboy1978uk@gmail.com"
         }
     ],
