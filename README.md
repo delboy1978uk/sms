@@ -6,7 +6,7 @@ Install via composer
 ```
 composer require delboy1978uk/sms
 ```
-## Usage
+## usage
 Create a provider, passing in the necessary config, and create the service, passing in the provider adapter:
 ```php
 <?php
