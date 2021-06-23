@@ -16,7 +16,8 @@
     },
     "autoload":{
         "psr-4":{
-            "Bone\\Sms\\":"src/"
+            "Bone\\Sms\\":"src/",
+            "Bone\\Test\\Sms\\":"tests/unit/"
         }
     }
 }
